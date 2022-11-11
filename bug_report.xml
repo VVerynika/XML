@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bug_report>
-<title>"Application crashes upon clicking the SAVE button while creating a new user"</title>
+<title>Application crashes upon clicking the SAVE button while creating a new user</title>
 	<ID>5</ID>
-	<Area_Path>"USERS menu -> New Users"</Area_Path>
+	<Area_Path>USERS menu -> New Users</Area_Path>
 	<Severity>Critical</Severity>
 	<Priority>High</Priority>
 	<Assigned_to>Developer</Assigned_to>
 	<Reported_By>Karpyza</Reported_By>
-	<Reported_On>"Date"</Reported_On>
-	<Status>"New/Open/Active"</Status>
+	<Reported_On>Date</Reported_On>
+	<Status>New/Open/Active</Status>
 	<Environment>Windows_11</Environment>
-	<Description>"Application crashes upon clicking the SAVE button while creating a new the user, hence unable to create a new user in the application"</Description>
-	<Steps_to_Reproduce>[
-		"1. Login into the Application",
-		"2. Navigate to the Users Menu - New User",
-		"3. Filled out all the user information fields",
-		"4. Clicked on the 'Save' button",
-		"5. Seen an error page 'ORA1090 Exception: Insert values Error…",
-		"6. See the attached logs for more information"
-		"7. Also see the attached screenshot of the error page"
-		]</Steps_to_Reproduce>
-	<Expected_Result>"On clicking the SAVE button, you should be prompted to a successful message 'New User has been created successfully'"</Expected_Result>
-	<Actual_Result>"Application crashes upon clicking the SAVE button while creating a new user"</Actual_Result>
+	<Description>Application crashes upon clicking the SAVE button while creating a new the user, hence unable to create a new user in the application</Description>
+	<Steps_to_Reproduce>
+		<s1>Login into the Application</s1>
+		<s2>Navigate to the Users Menu - New User</s2>
+		<s3>Filled out all the user information fields</s3>
+		<s4>Clicked on the 'Save' button</s4>
+		<s5>Seen an error page 'ORA1090 Exception: Insert values Error…</s5>
+		<s6>See the attached logs for more information</s6>
+		<s7>Also see the attached screenshot of the error page</s7>
+		</Steps_to_Reproduce>
+	<Expected_Result>On clicking the SAVE button, you should be prompted to a successful message 'New User has been created successfully'</Expected_Result>
+	<Actual_Result>Application crashes upon clicking the SAVE button while creating a new user</Actual_Result>
 	</bug_report>
