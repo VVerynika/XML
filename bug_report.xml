@@ -19,7 +19,7 @@
 		<s5>Seen an error page 'ORA1090 Exception: Insert values Error…</s5>
 		<s6>See the attached logs for more information</s6>
 		<s7>Also see the attached screenshot of the error page</s7>
-		</Steps_to_Reproduce>
+	</Steps_to_Reproduce>
 	<Expected_Result>On clicking the SAVE button, you should be prompted to a successful message 'New User has been created successfully'</Expected_Result>
 	<Actual_Result>Application crashes upon clicking the SAVE button while creating a new user</Actual_Result>
-	</bug_report>
+</bug_report>
