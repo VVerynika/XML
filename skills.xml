@@ -2,12 +2,33 @@
 <skills>
     <databases>PostgreSQL</databases>
     <api_testing>Postman</api_testing>
-    <sniffing>Charles, Fiddler</sniffing>
-    <basic_knowledge>HTML/CSS, Python, JS</basic_knowledge>
+    <sniffing>
+		<sn1>Charles</sn1>
+		<sn2>Fiddler</sn2>
+	</sniffing>
+    <basic_knowledge>
+		<bk1>HTML/CSS</bk1>
+		<bk2>Python</bk2>
+		<bk3>JS</bk3>
+	</basic_knowledge>
     <terminal_linux>Git Bash</terminal_linux>
-    <tools>Chrome DevTools, Jmeter</tools>
+    <tools>
+		<t1>Chrome DevTools</t1>
+		<t2>Jmeter</t2>
+	</tools>
     <methodology>Waterfall/Agile</methodology>
     <management_tools>Jira</management_tools>
-    <documentation>check list, test case, bug report</documentation>
-    <testing>functional, regression, unit, UAT, cross browser, WEB/mobile</testing>
+    <documentation>
+		<doc1>check list</doc1>
+		<doc2>test case</doc2>
+		<doc3>bug report</doc3>
+	</documentation>
+    <testing>
+		<tg1>functional</tg1>
+		<tg2>regression</tg2>
+		<tg3>unit</tg3>
+		<tg4>UAT</tg4>
+		<tg5>cross browser</tg5>
+		<tg6>WEB/mobile</tg6>
+	</testing>
 </skills>
