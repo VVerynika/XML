@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skills>
+    <databases>PostgreSQL</databases>
+    <api_testing>Postman</api_testing>
+    <sniffing>Charles, Fiddler</sniffing>
+    <basic_knowledge>HTML/CSS, Python, JS</basic_knowledge>
+    <terminal_linux>Git Bash</terminal_linux>
+    <tools>Chrome DevTools, Jmeter</tools>
+    <methodology>Waterfall/Agile</methodology>
+    <management_tools>Jira</management_tools>
+    <documentation>check list, test case, bug report</documentation>
+    <testing>functional, regression, unit, UAT, cross browser, WEB/mobile</testing>
