@@ -1,5 +1,7 @@
 <?xml version="1.0"?>
-<person_name>Karpyza Veronika</person_name>
-<person_age>39</person_age>
-<pets>8</pets>
-<salary>1500</salary>
+<person>
+    <person_name>Karpyza Veronika</person_name>
+    <person_age>39</person_age>
+    <pets>8</pets>
+    <salary>1500</salary>
+</person>
